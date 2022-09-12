@@ -9,3 +9,7 @@ netcat replacement written in python
 * getopt
 * threading
 * subprocess
+
+# Note:
+
+To get a shell you need to click CTRL + D to send EOF.
